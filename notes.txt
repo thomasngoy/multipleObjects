@@ -1,0 +1,3 @@
+Start with a basic HTML file
+Then add the main.js file and three.js file into the js subdirectory
+Create the scene and add controls to change the camera position/object positions
